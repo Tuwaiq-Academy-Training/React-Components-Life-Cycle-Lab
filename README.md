@@ -1,1 +1,1 @@
-# React-Components-Life-Cycle-Hooks-Lab
+# React-Components-Life-Cycle-Lab
