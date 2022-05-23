@@ -6,5 +6,6 @@ Continue on todo-list project ...
 
 * Use React hooks to save state and to perform side effects : 
     * useState
+* Use useContext hook to implement dark and light mode.
 
     
