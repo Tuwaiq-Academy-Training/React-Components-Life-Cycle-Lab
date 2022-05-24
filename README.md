@@ -9,4 +9,8 @@ Continue on todo-list project ...
     * useEffect
 * Use useContext hook to implement dark and light mode.
 
+## Task2:
+
+* Add functionality to the buttons add, delete & update task.
+    
     
